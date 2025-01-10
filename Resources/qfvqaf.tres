@@ -1,0 +1,154 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Stats.cs" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Name = null
+Skills = {
+"Animal Handling": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Animal Husbandry": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Blacksmithing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Carpenting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Commanding": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Cooking": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Farming": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Firecrafting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Fishing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Foraging": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Healing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Hunting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Intimidating": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Masoning": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Navigating": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Orating": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Piloting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Riding": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Rigging": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Rowing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Sailing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Scouting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Sculpting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Shipbuilding": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Sneaking": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Strategizing": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Swimming": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Toolcrafting": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+},
+"Tracking": {
+"Adjusted Value": 0.0,
+"Base Value": 0.0,
+"Modifier": 0.0
+}
+}
